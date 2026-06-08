@@ -10998,4 +10998,8 @@ background-position: bottom;}*/
 @media screen and (max-width: 365px){
     .laravel-capabilities .circale-img-box .col-inner{min-height: 400px;height: 100%;}
     .laravel-right-solution .circale-img-box .col-inner{min-height: 400px !important;}
+} 
+@media screen and (max-width: 366px){
+    .laravel-capabilities .circale-img-box .col-inner{min-height: 400px;height: 100%;}
+    .laravel-right-solution .circale-img-box .col-inner{min-height: 400px !important;}
 }
